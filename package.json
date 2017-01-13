@@ -1,0 +1,14 @@
+{
+  "name": "csharp-dto-generator",
+  "version": "1.0.0",
+  "description": "Generate DTO from models",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.1"
+  }
+}
